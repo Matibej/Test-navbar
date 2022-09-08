@@ -1,0 +1,52 @@
+/* Coolors Exported Palette - https://coolors.co/000000-6f7075-e9ecf7-0e0e0f-3a3a3c-a32424 */
+
+/* CSS HEX */
+--black: #000000ff;
+--sonic-silver: #6F7075ff;
+--ghost-white: #E9ECF7ff;
+--rich-black-fogra-39: #0E0E0Fff;
+--onyx: #3A3A3Cff;
+--auburn: #A32424ff;
+
+/* CSS HSL */
+--black: hsla(0, 0%, 0%, 1);
+--sonic-silver: hsla(230, 3%, 45%, 1);
+--ghost-white: hsla(227, 47%, 94%, 1);
+--rich-black-fogra-39: hsla(240, 3%, 6%, 1);
+--onyx: hsla(240, 2%, 23%, 1);
+--auburn: hsla(0, 64%, 39%, 1);
+
+/* SCSS HEX */
+$black: #000000ff;
+$sonic-silver: #6F7075ff;
+$ghost-white: #E9ECF7ff;
+$rich-black-fogra-39: #0E0E0Fff;
+$onyx: #3A3A3Cff;
+$auburn: #A32424ff;
+
+/* SCSS HSL */
+$black: hsla(0, 0%, 0%, 1);
+$sonic-silver: hsla(230, 3%, 45%, 1);
+$ghost-white: hsla(227, 47%, 94%, 1);
+$rich-black-fogra-39: hsla(240, 3%, 6%, 1);
+$onyx: hsla(240, 2%, 23%, 1);
+$auburn: hsla(0, 64%, 39%, 1);
+
+/* SCSS RGB */
+$black: rgba(0, 0, 0, 1);
+$sonic-silver: rgba(111, 112, 117, 1);
+$ghost-white: rgba(233, 236, 247, 1);
+$rich-black-fogra-39: rgba(14, 14, 15, 1);
+$onyx: rgba(58, 58, 60, 1);
+$auburn: rgba(163, 36, 36, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
+$gradient-right: linear-gradient(90deg, #000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
+$gradient-bottom: linear-gradient(180deg, #000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
+$gradient-left: linear-gradient(270deg, #000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
+$gradient-top-right: linear-gradient(45deg, #000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
+$gradient-bottom-right: linear-gradient(135deg, #000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
+$gradient-top-left: linear-gradient(225deg, #000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
+$gradient-bottom-left: linear-gradient(315deg, #000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
+$gradient-radial: radial-gradient(#000000ff, #6F7075ff, #E9ECF7ff, #0E0E0Fff, #3A3A3Cff, #A32424ff);
